@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
     // Edited by Artur 4/16
     // Lynda 4/16
     // Edited by Michael 4/16
+
     //edited by foziya
     @Override
     protected void onCreate(Bundle savedInstanceState) {
